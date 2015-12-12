@@ -1,2 +1,2 @@
-# i-was-here
-Write about yourself
+# I was here
+Write about yourself in sequence way
